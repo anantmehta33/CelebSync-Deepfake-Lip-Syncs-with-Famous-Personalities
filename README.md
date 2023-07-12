@@ -8,6 +8,5 @@ https://github.com/anantmehta33/Wav2Lip-Deepfake/assets/87894541/dea1ddb0-b086-4
 ![Screenshot (22)](https://github.com/anantmehta33/Wav2Lip-Deepfake/assets/87894541/874aded4-c7b3-42ff-a134-0b996bd0cc6c) <br>
 # Task 2: <br>
 Imposed an audio clip onto this generated video, to make Einstein speak whatever i want :) <br>
-https://github.com/anantmehta33/Wav2Lip-Deepfake/assets/87894541/43124be5-15c0-42f1-a98e-56f75c4865b5
-
-
+https://github.com/anantmehta33/Wav2Lip-Deepfake/assets/87894541/43124be5-15c0-42f1-a98e-56f75c4865b5 <br>
+![Screenshot (27)](https://github.com/anantmehta33/Wav2Lip-Deepfake/assets/87894541/a61dabd5-9482-4411-be6d-851b3d66c6bd)
