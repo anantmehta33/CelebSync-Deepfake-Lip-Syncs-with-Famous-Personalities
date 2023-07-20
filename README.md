@@ -1,4 +1,4 @@
-# Wav2Lip-Deepfake <br>
+# CelebSync: A Wav2Lip-Deepfake <br>
 The key idea behind Wav2Lip is to use two neural networks: a visual network and an audio network. The visual network takes as input the target video frames and extracts the facial landmarks and region around the lips. The audio network takes the input speech audio and extracts a spectrogram, which represents the frequency content of the audio over time. <br>
 # A project with dual benefits, Deepfake and Lip Syncing
 # Task 1: <br>
